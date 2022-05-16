@@ -1,0 +1,21 @@
+CANVAS API
+    context
+3D
+Three.js
+    - Material
+    Surface of a mesh, wireframe, estructura basica de un elemento 3d    
+        - MeshBasicMaterial
+        - MeshNormalMaterial
+        - MeshStandardMaterial
+    - Geometry
+    The form of the Material
+    - Mesh
+    => Geometry + Material
+    Creates geos: expensive
+    Creates materials: cheap
+    - Camera
+    Gives a scent of depth
+        - Perspective Camera
+            More depth
+        - Ortographic Camera
+            Kind of "flat" simil 2d
